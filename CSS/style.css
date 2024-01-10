@@ -1,0 +1,37 @@
+html{
+	background:no-repeat url(../IMG/OIP-1.jpg) ;
+	background-size: cover;
+	font-family: Andale Mono, monospace;
+}
+body{
+
+  width: 1000px;
+  margin: 0 auto;
+  color: #FFFFFF;
+  padding:0 20px 20px 20px;
+  border: 5px solid white;
+}
+h1{
+	font-size: 40px;
+	text-align: center;
+	letter-spacing: 1px;
+	line-height: 2;
+	color: #048B9A;
+	text-shadow: 2px 2px 1px black;
+}
+h2{
+	text-align: left;
+
+}
+h3{
+	text-align: center;
+}
+p{
+	text-align: center;
+}
+a{
+	color: #FFFFFF;
+}
+.jours{
+	color: #048D9A;
+}
