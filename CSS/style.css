@@ -1,5 +1,5 @@
 html{
-	background:no-repeat url(../IMG/OIP-1.jpg) ;
+	background: url(../IMG/OIP-1.jpg) ;
 	background-size: cover;
 	font-family: Andale Mono, monospace;
 }
@@ -30,8 +30,14 @@ p{
 	text-align: center;
 }
 a{
-	color: #FFFFFF;
+	color: #1c86ee;
 }
 .jours{
 	color: #048D9A;
 }
+.codeIndex{
+	width: 100px;
+	height: 100px;
+
+}
+
